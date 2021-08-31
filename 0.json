@@ -53,7 +53,7 @@
           "mopub_Native_Large": "11a17b188668469fb0412708c3d16813",
           "mopub_Native_Small": "11a17b188668469fb0412708c3d16813",          
           "is_slider_one": "y",          
-          "is_slider_one_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_one/get_app_list.json",          
+          "is_slider_one_url": "https://raw.githubusercontent.com/appssmart/api/main/slider/get_app_list.json",          
           "is_slider_two": "y",          
           "is_slider_two_url": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/slider_two/get_app_list.json",          
           "is_more_app": "y",
