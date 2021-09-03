@@ -67,7 +67,7 @@
           "spalsh_interstial_type": "3",
           "exit_interstial_type": "7",
           "open_ads_type": "1",
-          "ad_interval_time": "1",
+          "ad_interval_time": "60",
           "gg_app_id": "77828871",
           "img_url": "",
           "img_url_splash": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/360_640_extra.jpg",
