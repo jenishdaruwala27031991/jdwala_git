@@ -33,14 +33,11 @@
         "interstitial_priority": ["google","mopub","googletwo"],
         "spalsh_interstitial_priority": ["appopen_google"],
         "open_ads_type": "1",
+        "adCountInCategory": 4,
         "isActivitySkip": "y",
         "ad_interval_time": "1",
         "gg_app_id": "77828871",
-        "isSubcategory_active": "n",		
-        "is_interstitial_at_call": "n",
-        "agora_app_id": "c33d49fa998e4a82bf4aae0e84e237e5",
-        "agora_channel": "videocall",
-        "agora_app_certificate": "c2702448631d44ac83fa3cbf70b58bf5"
+        "isSubcategory_active": "n"        
       }
   ]
 }
