@@ -2,7 +2,7 @@
   "status": "1",
   "data": [
       {
-        "id": "0",
+        "id": "10",
         "gg_native": "float-7982",
         "gg_banner": "float-7985",
         "gg_app_oped_ad": "float-7984",
@@ -30,14 +30,14 @@
         "interstitial_skip": 2,
         "native_priority": "1",
         "banner_priority": "1",
-        "interstitial_priority": ["google","mopub","googletwo"],
-        "spalsh_interstitial_priority": ["appopen_google"],
+        "interstitial_priority": ["mopub"],
+        "spalsh_interstitial_priority": ["mopub"],
         "open_ads_type": "1",
         "adCountInCategory": 4,
         "isActivitySkip": "y",
         "ad_interval_time": "1",
         "gg_app_id": "77828871",
-        "isSubcategory_active": "n"        
+        "isSubcategory_active": "y"        
       }
   ]
 }
