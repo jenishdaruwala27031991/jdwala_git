@@ -35,7 +35,7 @@
         "open_ads_type": "1",
         "adCountInCategory": 4,
         "isActivitySkip": "y",
-        "ad_interval_time": "1",
+        "ad_interval_time": "5",
         "gg_app_id": "77828871",
         "isSubcategory_active": "n"        
       }
