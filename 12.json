@@ -16,7 +16,7 @@
           "is_image_playstore": "n",
           "package_name": "com.camerascannerdocumentscanner.com",
           "app_title": "Movieplex",          
-          "interstitial_priority": ["","","","",""],
+          "interstitial_priority": ["google","","",""],
           "spalsh_interstitial_priority": ["interstitial"],
           "ad_interval_time": 0,            
           "native_skip": 0,
