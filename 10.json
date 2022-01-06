@@ -33,7 +33,7 @@
         "interstitial_priority": ["google","","mopub"],
         "spalsh_interstitial_priority": ["google"],
         "open_ads_type": "1",
-        "adCountInCategory": 4,
+        "adCountInCategory": 1,
         "isActivitySkip": "n",
         "ad_interval_time": "2",
         "gg_app_id": "77828871",
