@@ -18,7 +18,7 @@
           "is_image_playstore": "n",
           "package_name": "com.Birthdays.alarm.reminderAlert",
           "app_title": "App Title",          
-          "interstitial_priority": ["google","google_two"],
+          "interstitial_priority": ["google","","","","google_two"],
           "spalsh_interstitial_priority": ["interstitial"],
           "ad_interval_time": 0,            
           "native_skip": 0,
