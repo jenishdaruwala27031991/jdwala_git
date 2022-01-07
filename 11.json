@@ -37,7 +37,10 @@
         "isActivitySkip": "n",
         "ad_interval_time": "5",
         "gg_app_id": "77828871",
-        "isSubcategory_active": "y"        
+        "isSubcategory_active": "y",
+        "faceSwapLimit": 0,
+        "img_upload_api": "http://178.62.25.207:8585/upload",
+		    "img_check_api": "http://178.62.25.207:8585/check"
       }
   ]
 }
