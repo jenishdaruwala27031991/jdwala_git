@@ -19,7 +19,7 @@
           "package_name": "com.Birthdays.alarm.reminderAlert",
           "app_title": "MoviePlex",          
           "interstitial_priority": ["google",""],
-          "spalsh_interstitial_priority": ["interstitial"],
+          "spalsh_interstitial_priority": ["app_open"],
           "ad_interval_time": 0,            
           "native_skip": 0,
           "native_banner_skip": 0,
