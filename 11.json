@@ -30,7 +30,7 @@
         "interstitial_skip": 1,
         "native_priority": "1",
         "banner_priority": "1",
-        "interstitial_priority": ["google","",""],
+        "interstitial_priority": ["google",""],
         "spalsh_interstitial_priority": ["google"],
         "open_ads_type": "1",
         "adCountInCategory": 3,
