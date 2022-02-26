@@ -2,12 +2,7 @@
   "status": "1",
   "data": [
       {
-        "id": "1",
-        "gg_native": "float-7982",
-        "gg_banner": "float-7985",
-        "gg_interstitial_splash": "float-7983",
-        "gg_interstitial_exit": "float-7983",
-        "gg_open_ads": "float-7983",
+        "id": "1",        
         "google_rewarded_ad": "ca-app-pub-3940256099942544/5224354917",
         "google_open_ads": "",
         "google_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -34,8 +29,7 @@
         "spalsh_interstitial_priority": ["mopub"],
         "adCountInCategory": 4,
         "isActivitySkip": "n",
-        "ad_interval_time": "0",
-        "gg_app_id": "77828871",
+        "ad_interval_time": "0",        
         "isSubcategory_active": "y",
         "app_redirectOtherAppStatus": "n",
         "webview_custom_tab": "n",
