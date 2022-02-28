@@ -20,7 +20,7 @@
         "common_native": ["11a17b188668469fb0412708c3d16813","11a17b188668469fb0412708c3d16813","11a17b188668469fb0412708c3d16813"],
         "common_interstial": ["24534e1901884e398f1253216226017e","24534e1901884e398f1253216226017e","24534e1901884e398f1253216226017e"],
         "common_interstial_splash": ["24534e1901884e398f1253216226017e","24534e1901884e398f1253216226017e","24534e1901884e398f1253216226017e"],
-        "moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Informations",
         "interstitial_skip": 0,
         "native_priority": ["mopub"],
