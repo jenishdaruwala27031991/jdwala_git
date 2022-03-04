@@ -20,7 +20,7 @@
         "common_native": ["823bb5e26d5740cebab0eb4e6a73bf7e","823bb5e26d5740cebab0eb4e6a73bf7e"],
         "common_interstial": ["8716a1dd89024df2bb49fb727b644429","8716a1dd89024df2bb49fb727b644429"],
         "common_interstial_splash": ["8716a1dd89024df2bb49fb727b644429","8716a1dd89024df2bb49fb727b644429"],
-        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_img.json",
         "app_title": "Birthday Song with Name",        
         "native_priority": ["google"],
         "banner_priority": "1",

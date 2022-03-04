@@ -20,7 +20,7 @@
         "common_native": ["20339a065773429db612c91e1958e51a","20339a065773429db612c91e1958e51a"],
         "common_interstial": ["edf83a749f5d429883082a7c8f52ad22","edf83a749f5d429883082a7c8f52ad22"],
         "common_interstial_splash": ["edf83a749f5d429883082a7c8f52ad22","edf83a749f5d429883082a7c8f52ad22"],
-        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_img.json",
         "app_title": "Photo Video Maker with Music",        
         "native_priority": ["google"],
         "banner_priority": "1",
