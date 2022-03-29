@@ -19,7 +19,7 @@
         "app_title": "Cricket Prediction",        
         "native_priority": ["google"],
         "banner_priority": "1",
-        "interstitial_priority": ["google"],
+        "interstitial_priority": ["","","","","google"],
         "spalsh_interstitial_priority": ["appopen_google"],
         "adCountInCategory": 1,
         "ad_interval_time": "0",
