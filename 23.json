@@ -35,10 +35,10 @@
         "app_redirectOtherAppStatus": "n",
         "webview_custom_tab": "y",
         "openapp_fail": "imgbanner",
-        "applovin_banner ": "",
-        "applovin_interstial_splash_fail": "",
-        "applovin_interstial_fail": "",
-        "applovin_native_fail": "",        
+        "applovin_banner ": "0d60305fb2fed901",
+        "applovin_interstial_splash_fail": "1c136c273eee939c",
+        "applovin_interstial_fail": "1c136c273eee939c",
+        "applovin_native_fail": "b7042b91b0d5a9c0",        
         "google_rewarded_ad": ""
       }
   ]
