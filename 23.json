@@ -22,7 +22,7 @@
         "common_interstial": ["","","/22387492205,22547452416/com.livecricketscore.fantasycricketprediction.interstitial0.1649135725"],
         "common_interstial_splash": ["/22387492205,22547452416/com.livecricketscore.fantasycricketprediction.interstitial0.1649135725"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "app_title": "Cricket Prediction",        
+        "app_title": "Fantasy Cricket Prediction Center",        
         "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["","","google"],
