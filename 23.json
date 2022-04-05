@@ -3,12 +3,12 @@
   "data": [
       {
         "id": "23",
-        "tapdaq_app_id":"6246d947fa0a5d2b508d12ae",
+        "tapdaq_app_id":"624af103fa0a5d2b508d12de",
         "tapdaq_client_key":"f4dcd27f-5fde-4d65-8140-434057be9e51",		
-        "facebook_interstial_splash_fail":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_interstial_fail":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_native_fail":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_interstial_splash_fail":"",
+        "facebook_interstial_fail":"",
+        "facebook_native_fail":"",
+        "facebook_banner":"",
         "google_banner": "ca-app-pub-2537408678321463/3640627845",
         "google_interstial_fail": "ca-app-pub-2537408678321463/7401082911",
         "google_interstial_splash_fail ": "ca-app-pub-2537408678321463/7401082911",
