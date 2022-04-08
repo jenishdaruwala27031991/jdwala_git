@@ -23,7 +23,7 @@
         "common_native": ["CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID"],
         "common_interstial": ["CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID"],
         "common_interstial_splash": ["CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID"],
-        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_img.json",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Cricket Prediction",
         "interstitial_skip": 0,
         "native_priority": ["google"],
