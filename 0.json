@@ -3,6 +3,7 @@
   "data": [
       {
         "id": "1",
+        "ironsource_app_key":"144aff581",
         "tapdaq_app_id":"6246d947fa0a5d2b508d12ae",
         "tapdaq_client_key":"f4dcd27f-5fde-4d65-8140-434057be9e51",		
         "facebook_interstial_splash_fail":"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
