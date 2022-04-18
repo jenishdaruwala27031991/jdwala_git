@@ -18,7 +18,7 @@
         "common_interstial": ["ca-app-pub-9273231177822889/8981281560"],
         "common_interstial_splash": ["ca-app-pub-9273231177822889/8981281560"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_all.json",
-        "app_title": "Social Smart - Cricket Fantasy",        
+        "app_title": "Social Smart APP",        
         "native_priority": ["facebook"],
         "banner_priority": "4",
         "interstitial_priority": ["tapdaq"],
