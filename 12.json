@@ -30,7 +30,7 @@
         "spalsh_interstitial_priority": ["appopen_google"],
         "adCountInCategory": 4,
         "ad_interval_time": "0",
-        "interstitial_skip": 3,
+        "interstitial_skip": 4,
         "isSubcategory_active": "y",
         "isActivitySkip": "n",
         "app_redirectOtherAppStatus": "n",
