@@ -28,7 +28,7 @@
         "banner_priority": "1",
         "interstitial_priority": ["google"],
         "spalsh_interstitial_priority": ["google"],
-        "adCountInCategory": 3,
+        "adCountInCategory": 2,
         "ad_interval_time": "0",
         "interstitial_skip": 1,
         "isSubcategory_active": "y",
