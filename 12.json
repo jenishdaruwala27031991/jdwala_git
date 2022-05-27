@@ -31,7 +31,7 @@
         "common_native": [""],
         "common_interstial": [""],
         "common_interstial_splash": [""],
-        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_all.json",
         "app_title": "MoviePlex",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
