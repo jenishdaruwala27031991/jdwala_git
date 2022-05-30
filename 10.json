@@ -16,13 +16,15 @@
         "facebook_native_fail":"514811922994616_514813009661174",
         "facebook_banner":"514811922994616_514812546327887",
         "facebook_banner_fail":"514811922994616_514812546327887",
+        "facebook_native_banner_fail":"514811922994616_598447121297762",
         "google_rewarded_ad": "",
         "google_open_ads": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Appopen",
         "google_banner": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Banner",
         "google_banner_fail": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Banner",
         "google_interstial_fail": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Full",
         "google_interstial_splash_fail ": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Full",
-        "google_native_fail": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Native",        
+        "google_native_fail": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Native",
+        "facebook_native_banner": "514811922994616_598447124631095",
         "common_native": ["514811922994616_591526248656516"],
         "common_interstial": ["514811922994616_591528115322996"],
         "common_interstial_splash": ["514811922994616_591535425322265"],
@@ -47,7 +49,8 @@
         "applovin_interstial_splash_fail": "",
         "applovin_interstial_fail": "",		        
         "applovin_native_fail": "",
-        "trackplex_token": ["YkEZyciKEeynZ0IcvqllRQ","pr5r_ciKEeynZ0IcvqllRQ","7ZVlKMiKEeynZ0IcvqllRQ","JdRIa8iLEeynZ0IcvqllRQ","Zrbt3ciLEeynZ0IcvqllRQ","mYJam8iLEeynZ0IcvqllRQ","0jliBsiLEeynZ0IcvqllRQ","CZSN6siMEeynZ0IcvqllRQ","OjagPciMEeynZ0IcvqllRQ","dGL64siMEeynZ0IcvqllRQ","o69IyMiMEeyx1PoluiZB4w","AtG_osiNEeynZ0IcvqllRQ","aRbN4ciNEeyx1PoluiZB4w","3wLO6siNEeyx1PoluiZB4w","OkvayMiOEeyx1PoluiZB4w","tdy9XMiOEeyx1PoluiZB4w","44FxqciOEeyx1PoluiZB4w","Oix39MiPEeyx1PoluiZB4w","GEvMs8iGEeynZ0IcvqllRQ"]
+        "trackplex_token": ["YkEZyciKEeynZ0IcvqllRQ","pr5r_ciKEeynZ0IcvqllRQ","7ZVlKMiKEeynZ0IcvqllRQ","JdRIa8iLEeynZ0IcvqllRQ","Zrbt3ciLEeynZ0IcvqllRQ","mYJam8iLEeynZ0IcvqllRQ","0jliBsiLEeynZ0IcvqllRQ","CZSN6siMEeynZ0IcvqllRQ","OjagPciMEeynZ0IcvqllRQ","dGL64siMEeynZ0IcvqllRQ","o69IyMiMEeyx1PoluiZB4w","AtG_osiNEeynZ0IcvqllRQ","aRbN4ciNEeyx1PoluiZB4w","3wLO6siNEeyx1PoluiZB4w","OkvayMiOEeyx1PoluiZB4w","tdy9XMiOEeyx1PoluiZB4w","44FxqciOEeyx1PoluiZB4w","Oix39MiPEeyx1PoluiZB4w","GEvMs8iGEeynZ0IcvqllRQ"],
+        "isYoutubeEnable": "y"
       }
   ]
 }
