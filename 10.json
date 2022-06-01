@@ -25,6 +25,7 @@
         "google_interstial_splash_fail ": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Full",
         "google_native_fail": "/21753324030,22682963512/com.socialmessenger.allinoneapps_Native",
         "facebook_native_banner": "514811922994616_598447124631095",
+        "common_native_banner": ["514811922994616_598447124631095"],
         "common_native": ["514811922994616_591526248656516"],
         "common_interstial": ["514811922994616_591528115322996"],
         "common_interstial_splash": ["514811922994616_591535425322265"],
