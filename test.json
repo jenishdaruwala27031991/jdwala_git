@@ -22,7 +22,7 @@
         "common_interstial": [""],
         "common_interstial_splash": [""],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_all.json",
-        "app_title": "",
+        "app_title": "Movie Plex",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
         "native_priority": ["facebook"],
