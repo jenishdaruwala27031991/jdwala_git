@@ -17,7 +17,7 @@
         "google_interstial_splash_fail ": "/21753324030,22682963512/com.property.buysalehomeforrent_property_Interstitial",
         "google_native_fail": "/21753324030,22682963512/com.property.buysalehomeforrent_property_Native",
         "facebook_native_banner": "605463760754508_606564497311101",
-        "common_native_banner": ["/21753324030,22682963512/com.property.buysalehomeforrent_property_Native"],
+        "common_native_banner": ["605463760754508_606559123978305","605463760754508_606559260644958","605463760754508_606559433978274"],
         "common_native": ["605463760754508_606562070644677","605463760754508_606562400644644","605463760754508_606562277311323"],
         "common_interstial": ["605463760754508_606554527312098","605463760754508_605464627421088","605463760754508_606554547312096"],
         "common_interstial_splash": ["/21753324030,22682963512/com.property.buysalehomeforrent_property_Interstitial"],
