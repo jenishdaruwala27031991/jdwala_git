@@ -57,7 +57,8 @@
         "applovin_banner_fail ": "",
         "applovin_interstial_splash_fail": "",
         "applovin_interstial_fail": "",
-        "applovin_native_fail": ""
+        "applovin_native_fail": "",
+        "is_provider_enable": "n"
       }
   ]
 }
