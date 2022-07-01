@@ -47,7 +47,8 @@
         "webview_custom_tab": "n",
         "is_interstitial_at_call": "y",
         "openapp_fail": "google",       
-        "trackplex_token": ["YkEZyciKEeynZ0IcvqllRQ","pr5r_ciKEeynZ0IcvqllRQ","7ZVlKMiKEeynZ0IcvqllRQ","JdRIa8iLEeynZ0IcvqllRQ","Zrbt3ciLEeynZ0IcvqllRQ","mYJam8iLEeynZ0IcvqllRQ","0jliBsiLEeynZ0IcvqllRQ","CZSN6siMEeynZ0IcvqllRQ","OjagPciMEeynZ0IcvqllRQ","dGL64siMEeynZ0IcvqllRQ","o69IyMiMEeyx1PoluiZB4w","1HUagsiMEeyUKBrQjAns","AtG_osiNEeynZ0IcvqllRQ","NOUnd8iNEeyUKBrQjAns","aRbN4ciNEeyx1PoluiZB4w","3wLO6siNEeyx1PoluiZB4w","C0nrTsiOEeyUKBrQjAns","OkvayMiOEeyx1PoluiZB4w","tdy9XMiOEeyx1PoluiZB4w","44FxqciOEeyx1PoluiZB4w","Oix39MiPEeyx1PoluiZB4w","GEvMs8iGEeynZ0IcvqllRQ"]
+        "trackplex_token": ["YkEZyciKEeynZ0IcvqllRQ","pr5r_ciKEeynZ0IcvqllRQ","7ZVlKMiKEeynZ0IcvqllRQ","JdRIa8iLEeynZ0IcvqllRQ","Zrbt3ciLEeynZ0IcvqllRQ","mYJam8iLEeynZ0IcvqllRQ","0jliBsiLEeynZ0IcvqllRQ","CZSN6siMEeynZ0IcvqllRQ","OjagPciMEeynZ0IcvqllRQ","dGL64siMEeynZ0IcvqllRQ","o69IyMiMEeyx1PoluiZB4w","1HUagsiMEeyUKBrQjAns","AtG_osiNEeynZ0IcvqllRQ","NOUnd8iNEeyUKBrQjAns","aRbN4ciNEeyx1PoluiZB4w","3wLO6siNEeyx1PoluiZB4w","C0nrTsiOEeyUKBrQjAns","OkvayMiOEeyx1PoluiZB4w","tdy9XMiOEeyx1PoluiZB4w","44FxqciOEeyx1PoluiZB4w","Oix39MiPEeyx1PoluiZB4w","GEvMs8iGEeynZ0IcvqllRQ"],
+        "is_provider_enable": "n"
       }
   ]
 }
