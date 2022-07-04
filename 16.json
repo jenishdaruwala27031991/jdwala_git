@@ -25,7 +25,7 @@
         "app_title": "All in One",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
-        "native_priority": ["facebook"],
+        "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["google"],
         "spalsh_interstitial_priority": ["google"],
