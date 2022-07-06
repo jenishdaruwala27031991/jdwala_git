@@ -22,6 +22,7 @@
         "common_interstial": ["248772103979194_248772147312523"],
         "common_interstial_splash": ["/21753324030,22682963512/com.birthdaysongwithnamemaker.photovideomakerwithmusic_Full"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_array.json",
         "app_title": "Birthday Song with Name",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
