@@ -21,7 +21,7 @@
         "common_interstial": ["ca-app-pub-2460295637049058/4367044242"],
         "common_interstial_splash": ["ca-app-pub-2460295637049058/4367044242"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
         "app_title": "Photo Video Maker with Music",        
         "native_priority": ["google"],
         "banner_priority": "1",
