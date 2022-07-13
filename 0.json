@@ -32,6 +32,7 @@
         "common_interstial": ["ca-app-pub-3940256099942544/1033173712"],
         "common_interstial_splash": ["ca-app-pub-3940256099942544/1033173712"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Information",
         "interstitial_skip": 2,
         "native_priority": ["google"],

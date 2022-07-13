@@ -22,6 +22,7 @@
         "common_interstial": ["/21753324030,22682963512/com.movieplex.android_full"],
         "common_interstial_splash": ["/21753324030,22682963512/com.movieplex.android_full"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Movie Plex",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
