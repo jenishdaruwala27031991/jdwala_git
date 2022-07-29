@@ -1,0 +1,40 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "30",        
+        "facebook_interstial_splash_fail":"",
+        "facebook_interstial_fail":"",
+        "facebook_native_fail":"",
+        "facebook_banner":"",
+        "facebook_banner_fail":"",
+        "facebook_native_banner_fail":"",
+        "google_rewarded_ad": "",
+        "google_open_ads": "/21753324030,22682963512/com.picmix.collagemakerphotoeditor_AppOpen",
+        "google_banner": "/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Banner",
+        "google_banner_fail": "/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Banner",
+        "google_interstial_fail": "/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Interstitial",
+        "google_interstial_splash_fail ": "/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Interstitial",
+        "google_native_fail": "/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Native",
+        "common_native_banner": ["/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Native"],
+        "common_native": ["/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Native"],
+        "common_interstial": ["/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Interstitial"],
+        "common_interstial_splash": ["/21753324030,22682963512/com.picmix.collagemakerphotoeditor_Interstitial"],
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "app_title": "Collage Maker",
+        "interstitial_skip": 0,
+        "adCountInCategory": 0,
+        "native_priority": ["google"],
+        "banner_priority": "1",
+        "interstitial_priority": ["google"],
+        "spalsh_interstitial_priority": ["google"],
+        "fail_priority": "google",
+        "openapp_fail": "facebook",
+        "isActivitySkip": "y",
+        "ad_interval_time": "0",
+        "isSubcategory_active": "y",
+        "app_redirectOtherAppStatus": "n",
+        "webview_custom_tab": "n"        
+      }
+  ]
+}
