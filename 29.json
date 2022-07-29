@@ -23,7 +23,7 @@
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
         "app_title": "Property Finder",
         "interstitial_skip": 0,
-        "adCountInCategory": 0,
+        "adCountInCategory": 3,
         "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["google"],
