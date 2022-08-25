@@ -21,7 +21,7 @@
         "common_interstial": ["787872002247211_787872212247190","787872002247211_787872212247190","787872002247211_787872212247190"],
         "common_interstial_splash": ["/21753324030,22682963512/com.birthdaywishes.photovideomakerwithmusic_Interstitial"],
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
-        "app_title": "Birthday Song With Name",
+        "app_title": "Birthday Wishes : Gift",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
         "native_priority": ["facebook"],
