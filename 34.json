@@ -28,7 +28,7 @@
         "banner_priority": "3",
         "interstitial_priority": ["facebook"],
         "spalsh_interstitial_priority": ["google"],
-        "fail_priority": "facebook",
+        "fail_priority": "google",
         "openapp_fail": "facebook",
         "isActivitySkip": "y",
         "ad_interval_time": "0",
