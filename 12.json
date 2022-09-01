@@ -31,7 +31,7 @@
         "interstitial_priority": ["google"],
         "spalsh_interstitial_priority": ["appopen_google"],
         "fail_priority": "google",
-        "openapp_fail": "google",
+        "openapp_fail": "",
         "isActivitySkip": "y",
         "ad_interval_time": "0",		
         "isSubcategory_active": "y",
