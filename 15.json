@@ -24,7 +24,7 @@
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
         "app_title": "Birthday Song with Name",
-        "interstitial_skip": 0,
+        "interstitial_skip": 3,
         "adCountInCategory": 3,
         "native_priority": ["facebook"],
         "banner_priority": "3",
