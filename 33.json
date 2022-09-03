@@ -22,7 +22,7 @@
         "common_interstial_splash": ["/21753324030,22682963512/com.livecricketscoreprediction.com_Interstitial"],
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
         "app_title": "Live Cricket Score",
-        "interstitial_skip": 0,
+        "interstitial_skip": 4,
         "adCountInCategory": 3,
         "native_priority": ["google"],
         "banner_priority": "1",
