@@ -21,7 +21,7 @@
         "common_interstial": [""],
         "common_interstial_splash": ["56546546546"],        
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_gits/master/moreappdata_array.json",
-        "app_title": "test1234",
+        "app_title": "test12345",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
         "native_priority": ["googlexcvcxvcx"],
@@ -37,14 +37,14 @@
         "webview_custom_tab": "n",
         "is_interstitial_at_call": "y",
         "trackplex_token": ["YkEZyciKEeynZ0IcvqllRQsdsadsad"],
-        "isYoutubeEnable": "y",
+        "isYoutubeEnable": "n",
         "isPhotoApiEnable":"y",
         "faceSwapLimit": 0,
         "img_upload_api": "http://178.62.25.207:8585/upload",
         "img_check_api": "http://178.62.25.207:8585/check",
         "face_swap_upload_api":"https://access1.imglarger.com/PhoAi/Upload",
         "face_swap_check_api":"https://access1.imglarger.com/PhoAi/CheckStatus",        
-        "is_provider_enable": "n"
+        "is_provider_enable": "y"
       }
   ]
 }
