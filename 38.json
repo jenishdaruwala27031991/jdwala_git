@@ -3,15 +3,7 @@
   "data": [
       {
         "id": "38",        
-        "facebook_interstial_splash_fail":"",
-        "facebook_interstial_fail":"",
-        "facebook_native_fail":"",
-        "facebook_banner":"",
-        "facebook_banner_fail":"",
-        "facebook_native_banner_fail":"",
-        "google_rewarded_ad": "",
-        "google_open_ads": "",
-        "google_banner": "",
+       
         "google_banner_fail": "",
         "google_interstial_fail": "",
         "google_interstial_splash_fail ": "",
