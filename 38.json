@@ -20,7 +20,7 @@
         "common_native": [""],
         "common_interstial": [""],
         "common_interstial_splash": [""],        
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        
         "app_title": "App ",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
