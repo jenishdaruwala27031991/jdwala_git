@@ -1,0 +1,43 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "36",        
+        "facebook_interstial_splash_fail":"",
+        "facebook_interstial_fail":"",
+        "facebook_native_fail":"",
+        "facebook_banner":"",
+        "facebook_banner_fail":"",
+        "facebook_native_banner_fail":"",
+        "google_rewarded_ad": "/21753324030,22682963512/com.finance.calculatorallinone_Rewarded",
+        "google_open_ads": "/21753324030,22682963512/com.finance.calculatorallinone_AppOpen",
+        "google_banner": "/21753324030,22682963512/com.finance.calculatorallinone_Banner",
+        "google_banner_fail": "/21753324030,22682963512/com.finance.calculatorallinone_Banner",
+        "google_interstial_fail": "/21753324030,22682963512/com.finance.calculatorallinone_Interstitial",
+        "google_interstial_splash_fail ": "/21753324030,22682963512/com.finance.calculatorallinone_Interstitial",
+        "google_native_fail": "/21753324030,22682963512/com.finance.calculatorallinone_Native",
+        "common_native_banner": ["/21753324030,22682963512/com.finance.calculatorallinone_Native"],
+        "common_native": ["/21753324030,22682963512/com.finance.calculatorallinone_Native"],
+        "common_interstial": ["/21753324030,22682963512/com.finance.calculatorallinone_Interstitial"],
+        "common_interstial_splash": ["/21753324030,22682963512/com.finance.calculatorallinone_Interstitial"],
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "app_title": "Movieflixs",
+        "interstitial_skip": 0,
+        "adCountInCategory": 3,
+        "native_priority": ["google"],
+        "banner_priority": "1",
+        "interstitial_priority": ["google"],
+        "spalsh_interstitial_priority": ["google"],
+        "fail_priority": "google",
+        "openapp_fail": "google",
+        "isActivitySkip": "y",
+        "ad_interval_time": "0",
+        "isSubcategory_active": "y",
+        "app_redirectOtherAppStatus": "n",
+        "webview_custom_tab": "n",        
+        "trackplex_token": ["YkEZyciKEeynZ0IcvqllRQ","pr5r_ciKEeynZ0IcvqllRQ","7ZVlKMiKEeynZ0IcvqllRQ","JdRIa8iLEeynZ0IcvqllRQ","Zrbt3ciLEeynZ0IcvqllRQ","mYJam8iLEeynZ0IcvqllRQ","0jliBsiLEeynZ0IcvqllRQ","CZSN6siMEeynZ0IcvqllRQ","OjagPciMEeynZ0IcvqllRQ","dGL64siMEeynZ0IcvqllRQ","o69IyMiMEeyx1PoluiZB4w","AtG_osiNEeynZ0IcvqllRQ","aRbN4ciNEeyx1PoluiZB4w","3wLO6siNEeyx1PoluiZB4w","OkvayMiOEeyx1PoluiZB4w","tdy9XMiOEeyx1PoluiZB4w","44FxqciOEeyx1PoluiZB4w","Oix39MiPEeyx1PoluiZB4w","GEvMs8iGEeynZ0IcvqllRQ"],
+        "isYoutubeEnable": "y",                
+        "is_provider_enable": "n"
+      }
+  ]
+}
