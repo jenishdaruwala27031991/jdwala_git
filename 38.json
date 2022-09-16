@@ -21,7 +21,7 @@
         "common_interstial": ["/21753324030,22682963512/com.propertyfinder.houseforsaleandrent_Interstitial"],
         "common_interstial_splash": ["/21753324030,22682963512/com.propertyfinder.houseforsaleandrent_Interstitial"],
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
-        "app_title": "Home for Rent-Sale",
+        "app_title": "Home for Rent Sale",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
         "native_priority": ["google"],
