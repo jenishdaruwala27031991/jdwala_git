@@ -23,7 +23,7 @@
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
         "app_title": "Social Media",
         "interstitial_skip": 15,
-        "adCountInCategory": 3,
+        "adCountInCategory": 6,
         "native_priority": ["facebook"],
         "banner_priority": "3",
         "interstitial_priority": ["facebook"],
