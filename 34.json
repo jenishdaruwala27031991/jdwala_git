@@ -25,7 +25,7 @@
         "interstitial_skip": 15,
         "adCountInCategory": 3,
         "native_priority": ["facebook"],
-        "banner_priority": "6",
+        "banner_priority": "3",
         "interstitial_priority": ["facebook"],
         "spalsh_interstitial_priority": ["appopen_google"],
         "fail_priority": "google",
