@@ -20,7 +20,7 @@
         "common_native": ["810512920367581_810513103700896","810512920367581_810513070367566","810512920367581_810513087034231","810512920367581_810513057034234","810512920367581_810513040367569"],
         "common_interstial": ["810512920367581_810513093700897","810512920367581_810513117034228","810512920367581_810513133700893","810512920367581_810513150367558","810512920367581_810513127034227"],
         "common_interstial_splash": ["/21753324030,22682963512/com.movieflixs.trackshowsandmovies_Interstitial"],
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_all.json",
         "app_title": "Movieflixs",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
