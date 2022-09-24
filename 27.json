@@ -26,7 +26,7 @@
         "adCountInCategory": 4,
         "native_priority": ["google"],
         "banner_priority": "1",
-        "interstitial_priority": ["google"],
+        "interstitial_priority": ["facebook"],
         "spalsh_interstitial_priority": ["google"],
         "fail_priority": "google",
         "openapp_fail": "google",
