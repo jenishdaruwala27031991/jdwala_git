@@ -25,7 +25,7 @@
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_all.json",
         "app_title": "Movie Plex",
         "interstitial_skip": 4,
-        "adCountInCategory": 4,
+        "adCountInCategory": 6,
         "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["google"],
