@@ -23,7 +23,7 @@
         "google_native_fail": "/21753324030,22682963512/com.socialmediaexplorerallinone.socialapp_Native",
         "common_native_banner": ["/21753324030,22682963512/com.socialmediaexplorerallinone.socialapp_Native"],
         "common_native": ["/21753324030,22682963512/com.socialmediaexplorerallinone.socialapp_Native"],
-        "common_interstial": ["b6335636d8c125"],
+        "common_interstial": ["b6335636d8c125","b6335636d8c125","b6335636d8c125"],
         "common_interstial_splash": ["/21753324030,22682963512/com.socialmediaexplorerallinone.socialapp_Interstitial"],
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
         "app_title": "Social Media",
