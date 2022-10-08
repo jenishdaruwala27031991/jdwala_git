@@ -28,7 +28,7 @@
         "adCountInCategory": 3,
         "native_priority": [""],
         "banner_priority": "1",
-        "interstitial_priority": [""],
+        "interstitial_priority": ["custom_tab"],
         "spalsh_interstitial_priority": ["google"],
         "fail_priority": "",
         "openapp_fail": "",
