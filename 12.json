@@ -31,7 +31,7 @@
         "interstitial_priority": ["custom_tab"],
         "spalsh_interstitial_priority": ["imgbanner"],
         "fail_priority": "google",
-        "openapp_fail": "",
+        "openapp_fail": "imgbanner",
         "isActivitySkip": "y",
         "ad_interval_time": "0",		
         "isSubcategory_active": "y",
