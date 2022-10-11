@@ -29,7 +29,7 @@
         "native_priority": [""],
         "banner_priority": "1",
         "interstitial_priority": ["custom_tab"],
-        "spalsh_interstitial_priority": ["imgbanner"],
+        "spalsh_interstitial_priority": ["appopen_google"],
         "fail_priority": "google",
         "openapp_fail": "google",
         "isActivitySkip": "y",
