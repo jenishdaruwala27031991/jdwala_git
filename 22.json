@@ -32,7 +32,7 @@
         "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["toponad"],
-        "spalsh_interstitial_priority": ["google"],
+        "spalsh_interstitial_priority": ["appopen_google"],
         "fail_priority": "",
         "openapp_fail": "",
         "isActivitySkip": "y",
