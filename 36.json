@@ -25,7 +25,7 @@
         "common_native": ["/22405025169,22817688103/com.movieflixs.trackshowsandmovies.Native"],
         "common_interstial": ["b6332f28637035","b6332f28637035","b6332f28637035"],
         "common_interstial_splash": ["/22405025169,22817688103/com.movieflixs.trackshowsandmovies.Interstitial"],
-        "moreapp_json_new": "",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
         "app_title": "Movieflixs",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
