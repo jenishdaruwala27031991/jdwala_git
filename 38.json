@@ -28,7 +28,7 @@
         "banner_priority": "1",
         "interstitial_priority": ["google"],
         "spalsh_interstitial_priority": ["google"],
-        "fail_priority": "toponad",
+        "fail_priority": "google",
         "openapp_fail": "google",
         "isActivitySkip": "y",
         "ad_interval_time": "0",
