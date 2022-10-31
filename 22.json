@@ -21,7 +21,7 @@
         "google_interstial_fail": "/21753324030,22682963512/com.justbinge.trackshowandmoviesbinge_Interstitial",
         "google_interstial_splash_fail ": "/21753324030,22682963512/com.justbinge.trackshowandmoviesbinge_Interstitial",
         "google_native_fail": "/21753324030,22682963512/com.justbinge.trackshowandmoviesbinge_Native",
-        "common_native_banner": [""],
+        "common_native_banner": ["b635f65670204555445fd"],
         "common_native": ["b635f6567020fd","b635f656e48567","b635f65769384c"],
         "common_interstial": ["b635f653c03357","b635f654ed312d","b635f65583c740"],
         "common_interstial_splash": ["/21753324030,22682963512/com.justbinge.trackshowandmoviesbinge_Interstitial"],
