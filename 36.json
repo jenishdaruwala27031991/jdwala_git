@@ -33,7 +33,7 @@
         "adCountInCategory": 3,
         "native_priority": ["google"],
         "banner_priority": "1",
-        "interstitial_priority": ["facebook"],
+        "interstitial_priority": ["toponad"],
         "spalsh_interstitial_priority": ["google"],
         "fail_priority": "google",
         "openapp_fail": "google",
