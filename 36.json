@@ -28,7 +28,7 @@
         "common_interstial": ["b6332f28637035","b6353744c05709","b63537453c74f2"],
         "common_interstial_splash": ["b6332f28637035","b6353744c05709"],
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
-        "app_title": "Movieflixs",
+        "app_title": "Trackplex",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
         "native_priority": ["toponad"],
