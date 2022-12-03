@@ -22,7 +22,7 @@
         "common_interstial": ["248772103979194_380933240763079","248772103979194_380933264096410","248772103979194_380933254096411","248772103979194_380933260763077","248772103979194_380933267429743","248772103979194_380933250763078"],
         "common_interstial_splash": ["/22405025169,22817688103/com.birthdaysongwithnamemaker.photovideomakerwithmusic.Interstitial"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "moreapp_json_new": "https://movieplex.live/assets/moreappdata_array_extra.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "Birthday Wishes",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

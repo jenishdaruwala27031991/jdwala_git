@@ -22,7 +22,7 @@
         "common_interstial": ["514811922994616_591528115322996","514811922994616_591528111989663","514811922994616_591527961989678","514811922994616_591527965323011","514811922994616_591527955323012","514811922994616_591527958656345","514811922994616_591527948656346","514811922994616_591528108656330","514811922994616_591528098656331","514811922994616_591528101989664"],
         "common_interstial_splash": ["/22405025169,22817688103/com.socialmessenger.allinoneapps.Interstitial"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "moreapp_json_new": "https://movieplex.live/assets/moreappdata_array_extra.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "Social Media",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

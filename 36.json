@@ -27,7 +27,7 @@
         "common_native": ["/22387492205,22547452416/com.movieflixs.trackshowsandmovies.Native0.1666090771","/22387492205,22547452416/com.movieflixs.trackshowsandmovies.Native0.1666090771"],
         "common_interstial": ["b6332f28637035"],
         "common_interstial_splash": ["/22405025169,22817688103/com.movieflixs.trackshowsandmovies.Interstitial"],
-        "moreapp_json_new": "https://movieplex.live/assets/moreappdata_array_extra.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "MovieFlix",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
