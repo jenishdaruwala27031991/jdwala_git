@@ -25,7 +25,7 @@
         "common_native": ["1265512424008625_1265512514008616","1265512424008625_1265512527341948","1265512424008625_1265512530675281"],
         "common_interstial": ["1265512424008625_1265512517341949","1265512424008625_1265512577341943","1265512424008625_1265512574008610"],
         "common_interstial_splash": ["/21753324030,22682963512/com.movieplex.trackmoviesandshows_Interstitial"],
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "Movieplex",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

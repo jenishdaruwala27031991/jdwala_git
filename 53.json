@@ -25,7 +25,7 @@
         "common_native": ["848600132997662_848600219664320","848600132997662_848600259664316","848600132997662_848600239664318"],
         "common_interstial": ["848600132997662_848600236330985","848600132997662_848600246330984","848600132997662_848600222997653"],
         "common_interstial_splash": ["/21753324030,22682963512/com.trackmovies.showtimeshd_Interstitial"],
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "ShowTime",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

@@ -25,7 +25,7 @@
         "common_native": ["5750220025040693_5795765997152762","5750220025040693_5795765987152763","5750220025040693_5795765977152764","5750220025040693_5795765983819430"],
         "common_interstial": ["5750220025040693_5759378244124871","5750220025040693_5759378237458205","5750220025040693_5759378227458206"],
         "common_interstial_splash": ["/22405025169,22817688103/com.trackshowsandmoviestvtracker.showtvtimestracker.Interstitial"],
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "MoviePlex",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

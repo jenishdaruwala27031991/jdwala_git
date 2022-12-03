@@ -25,7 +25,7 @@
         "common_native": ["/21753324030,22682963512/com.socialmessenger.allinoneandroidapps_Native"],
         "common_interstial": ["/21753324030,22682963512/com.socialmessenger.allinoneandroidapps_Interstitial"],
         "common_interstial_splash": ["/21753324030,22682963512/com.socialmessenger.allinoneandroidapps_Interstitial"],
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "Social Media",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

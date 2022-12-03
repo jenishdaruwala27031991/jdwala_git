@@ -25,7 +25,7 @@
         "common_native": ["1065297800753297_1065297894086621"],
         "common_interstial": ["1065297800753297_1065297877419956"],
         "common_interstial_splash": ["/21753324030,22682963512/com.picmix.collagemakerpicmixphotomix_Interstitial"],
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "PicMix",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

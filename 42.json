@@ -25,7 +25,7 @@
         "common_native": ["/21753324030,22682963512/com.allinonesocialmediaexplorer.socialmediaallinone_Native"],
         "common_interstial": ["b633ecf50d9ea3"],
         "common_interstial_splash": ["/21753324030,22682963512/com.allinonesocialmediaexplorer.socialmediaallinone_Interstitial"],
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "Smart App",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

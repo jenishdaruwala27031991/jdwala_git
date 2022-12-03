@@ -25,7 +25,7 @@
         "common_native": ["b635fd43e7ef8a","b635fd449d0cb0","b635fd4500082f"],
         "common_interstial": ["b635fd35ed2f07","b635fd36a20e5a","b635fd39235012"],
         "common_interstial_splash": ["/21753324030,22682963512/com.trackshowsandmoviestvtracker.showtimestracker_Interstitial"],        
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "Showtimes",
         "interstitial_skip": 0,
         "adCountInCategory": 3,

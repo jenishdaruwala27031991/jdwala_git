@@ -25,7 +25,7 @@
         "common_native": ["b6360ece5d5c22","b6360ed263bb1c","b6360ed268e4eb"],
         "common_interstial": ["b6360ed26e1088","b6360ed2747bc3","b6360ed279af92"],
         "common_interstial_splash": ["/21753324030,22682963512/com.birthdaysongwithnamemaker.adobphotovideomakerwithmusics_Interstitial"],
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
         "app_title": "Birthday Wishes",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
