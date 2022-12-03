@@ -22,7 +22,7 @@
         "common_interstial": ["dfdfd"],
         "common_interstial_splash": ["dfdfdfd"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_12.json",
+        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array.json",
         "app_title": "MoviePlex",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
