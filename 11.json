@@ -22,7 +22,7 @@
         "common_interstial": ["610009253562165_706987087197714","610009253562165_706989797197443","610009253562165_706987610530995","610009253562165_706987093864380","610009253562165_706987107197712","610009253562165_706987100531046","610009253562165_706987097197713","610009253562165_706987260531030","610009253562165_706987263864363","610009253562165_706987253864364","610009253562165_706987257197697","610009253562165_706987603864329","610009253562165_706987607197662","610009253562165_706987600530996"],
         "common_interstial_splash": ["/21753324030,22682963512/com.faceappfaceswap.com_Interstitial"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_extra.json",
+        "moreapp_json_new": "https://movieplex.live/assets/moreappdata_array_extra.json",
         "app_title": "Face Swap",
         "interstitial_skip": 0,
         "adCountInCategory": 3,
