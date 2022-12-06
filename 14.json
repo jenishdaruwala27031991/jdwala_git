@@ -49,7 +49,7 @@
         "face_swap_upload_api":"https://access1.imglarger.com/PhoAi/Upload",
         "face_swap_check_api":"https://access1.imglarger.com/PhoAi/CheckStatus",
         "isPhotoApiEnable":"y",
-        "is_wallpaper_ringtone_birthday_song_enable": "n"
+        "is_wallpaper_ringtone_birthday_song_enable": "y"
       }
   ]
 }
