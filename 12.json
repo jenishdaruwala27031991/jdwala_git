@@ -27,7 +27,7 @@
         "interstitial_skip": 0,
         "adCountInCategory": 3,
         "native_priority": ["imgbanner"],
-        "banner_priority": "imgbanner",
+        "banner_priority": "",
         "interstitial_priority": ["custom_tab"],
         "spalsh_interstitial_priority": ["imgbanner"],
         "fail_priority": "custom_tab",
