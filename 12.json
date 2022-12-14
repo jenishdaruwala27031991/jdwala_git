@@ -25,7 +25,7 @@
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_12.json",
         "app_title": "MoviePlex",
         "interstitial_skip": 0,
-        "adCountInCategory": 3,
+        "adCountInCategory": 0,
         "native_priority": [""],
         "banner_priority": "",
         "interstitial_priority": ["custom_tab"],
