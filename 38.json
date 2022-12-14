@@ -29,7 +29,7 @@
         "interstitial_priority": ["imgbanner"],
         "spalsh_interstitial_priority": ["imgbanner"],
         "fail_priority": "custom_tab",
-        "openapp_fail": "custom_tab",
+        "openapp_fail": "",
         "isActivitySkip": "y",
         "ad_interval_time": "0",
         "isSubcategory_active": "y",
