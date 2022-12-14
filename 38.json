@@ -23,7 +23,7 @@
         "moreapp_json_new": "https://movieplex.live/assets/moreappdata_array_extra.json",
         "app_title": "Home for Rent Sale",
         "interstitial_skip": 0,
-        "adCountInCategory": 3,
+        "adCountInCategory": 0,
         "native_priority": ["imgbanner"],
         "banner_priority": "1",
         "interstitial_priority": ["imgbanner"],
