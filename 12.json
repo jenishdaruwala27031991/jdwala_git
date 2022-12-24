@@ -24,12 +24,12 @@
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_12.json",
         "app_title": "MoviePlex",
-        "interstitial_skip": 1,
+        "interstitial_skip": 5,
         "adCountInCategory": 5,
         "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["google"],
-        "spalsh_interstitial_priority": ["google"],
+        "spalsh_interstitial_priority": ["appopen_google"],
         "fail_priority": "custom_tab",
         "openapp_fail": "custom_tab",
         "isActivitySkip": "y",
@@ -53,7 +53,7 @@
         "applovin_interstial_splash_fail": "",
         "applovin_interstial_fail": "",		        
         "applovin_native_fail": "",
-        "is_wallpaper_ringtone_birthday_song_enable": "y"
+        "is_wallpaper_ringtone_birthday_song_enable": "n"
       }
   ]
 }
