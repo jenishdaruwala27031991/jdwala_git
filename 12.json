@@ -52,7 +52,8 @@
         "applovin_banner_fail ": "",        
         "applovin_interstial_splash_fail": "",
         "applovin_interstial_fail": "",		        
-        "applovin_native_fail": ""
+        "applovin_native_fail": "",
+        "is_wallpaper_ringtone_birthday_song_enable": "n"
       }
   ]
 }
