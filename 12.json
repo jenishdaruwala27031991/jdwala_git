@@ -22,14 +22,14 @@
         "common_interstial": ["/22405025169,22817688103/com.movieplex.android.Interstitial"],
         "common_interstial_splash": ["/22405025169,22817688103/com.movieplex.android.Interstitial"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "moreapp_json_new": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_array_12.json",
+        "moreapp_json_new": "https://movieplex.live/assets/moreappdata_array_extra.json",
         "app_title": "MoviePlex",
-        "interstitial_skip": 1,
+        "interstitial_skip": 4,
         "adCountInCategory": 5,
         "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["google"],
-        "spalsh_interstitial_priority": ["google"],
+        "spalsh_interstitial_priority": ["appopen_google"],
         "fail_priority": "custom_tab",
         "openapp_fail": "custom_tab",
         "isActivitySkip": "y",
@@ -39,7 +39,7 @@
         "webview_custom_tab": "n",
         "is_interstitial_at_call": "y",        
         "trackplex_token": ["YkEZyciKEeynZ0IcvqllRQ","pr5r_ciKEeynZ0IcvqllRQ","7ZVlKMiKEeynZ0IcvqllRQ","JdRIa8iLEeynZ0IcvqllRQ","Zrbt3ciLEeynZ0IcvqllRQ","mYJam8iLEeynZ0IcvqllRQ","0jliBsiLEeynZ0IcvqllRQ","CZSN6siMEeynZ0IcvqllRQ","OjagPciMEeynZ0IcvqllRQ","dGL64siMEeynZ0IcvqllRQ","o69IyMiMEeyx1PoluiZB4w","AtG_osiNEeynZ0IcvqllRQ","aRbN4ciNEeyx1PoluiZB4w","3wLO6siNEeyx1PoluiZB4w","OkvayMiOEeyx1PoluiZB4w","tdy9XMiOEeyx1PoluiZB4w","44FxqciOEeyx1PoluiZB4w","Oix39MiPEeyx1PoluiZB4w","GEvMs8iGEeynZ0IcvqllRQ"],
-        "isYoutubeEnable": "y",
+        "isYoutubeEnable": "n",
         "toponad_appkey": "f0552159d4e5a482d800df2a5e7faa1b",
         "toponad_appid": "a62616413a6f33",
         "toponad_splash_fail": "b6261642e9dac1",
@@ -53,7 +53,7 @@
         "applovin_interstial_splash_fail": "",
         "applovin_interstial_fail": "",		        
         "applovin_native_fail": "",
-        "is_wallpaper_ringtone_birthday_song_enable": "y"
+        "is_wallpaper_ringtone_birthday_song_enable": "n"
       }
   ]
 }
