@@ -33,7 +33,7 @@
         "interstitial_skip": 0,
         "adCountInCategory": 3,
         "native_priority": ["facebook"],
-        "banner_priority": "03",
+        "banner_priority": "1",
         "interstitial_priority": ["facebook"],
         "spalsh_interstitial_priority": ["google"],
         "fail_priority": "google",
@@ -49,7 +49,7 @@
         "face_swap_upload_api":"https://access1.imglarger.com/PhoAi/Upload",
         "face_swap_check_api":"https://access1.imglarger.com/PhoAi/CheckStatus",
         "isPhotoApiEnable":"y",
-        "is_wallpaper_ringtone_birthday_song_enable": "n"
+        "is_wallpaper_ringtone_birthday_song_enable": "y"
       }
   ]
 }
