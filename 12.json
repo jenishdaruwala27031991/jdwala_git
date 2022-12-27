@@ -22,7 +22,7 @@
         "common_interstial": ["/22405025169,22817688103/com.movieplex.android.Interstitial"],
         "common_interstial_splash": ["/22405025169,22817688103/com.movieplex.android.Interstitial"],
         "moreapp_json": "https://movieplex.live/assets/moreappdata_array_extra.json",
-        "moreapp_json_new": "",
+        "moreapp_json_new": "https://movieplex.live/assets/moreappdata_array_extra.json",
         "app_title": "MoviePlex",
         "interstitial_skip": 0,
         "adCountInCategory": 4,
